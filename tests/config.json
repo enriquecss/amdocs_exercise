@@ -1,0 +1,10 @@
+
+    {
+        "baseUrl": "https://the-internet.herokuapp.com/",
+        "BaseAuthUrl": "https://admin:admin@the-internet.herokuapp.com/basic_auth",
+        "stitchUrl": "https://staging.impira.com/o/Stitch%20Fix/search",
+        "lolaUrl": "https://staging.impira.com/o/Lola%20+%20Bird/v/9a30e00efdd63bf2",
+        "realreal": "https://staging.impira.com/o/The%20RealReal/search",
+        "SFUrlHidden": "https://staging.impira.com/o/Stitch%20Fix/v/7f9fa98fcdefc881#usageRights",
+        "SFUrlCollection": "https://staging.impira.com/o/Stitch%20Fix/collections/Automated%20Collection-hDSlzl0cBfORKF4z"
+    }
